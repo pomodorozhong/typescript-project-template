@@ -31,6 +31,7 @@ npm run build
     + [Create ssh deploy key](https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-create-ssh-deploy-key)
     + [Personal Access Tokens](https://github.com/settings/tokens)
     + [Authenticating with the GITHUB_TOKEN - GitHub Docs](https://docs.github.com/en/actions/configuring-and-managing-workflows/authenticating-with-the-github_token)
+3. [Change the `.github/workflows/main.yml` file accordingly](https://github.com/peaceiris/actions-gh-pages#supported-tokens)
 3. Copy all the file from this repo to your repo
 4. That's it, from now on every time you commit to `master` branch, your GitHub Pages will be update automatically
 5. If your `gh-pages` branch can be update automatically, but there is no file in it, try to do a manual commit on `gh-pages` branch ([more info](###Details-for-setting-up-the-Github-workflow))
