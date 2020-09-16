@@ -2,6 +2,8 @@
 
 This template covered the usage of `Parcel` for TypeScript, and a Github workflow for automatically updating GitHub Pages.
 
+[Click here](https://pomodorozhong.github.io/typescript-project-template/.) to see the automatically builded GitHub Pages.
+
 ## Installation
 
 ```sh
