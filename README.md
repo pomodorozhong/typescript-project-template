@@ -7,6 +7,8 @@ This template covered the usage of `Parcel` for TypeScript, and a Github workflo
 ## Installation
 
 ```sh
+git clone https://github.com/pomodorozhong/typescript-project-template.git
+cd typescript-project-template
 npm install
 ```
 
