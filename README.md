@@ -14,7 +14,7 @@ npm install
 
 ## Parcel usage
 
-To watch the chage of source code and automatically rebuild:
+To watch the change of source code and automatically rebuild:
 
 ```sh
 npm run dev
